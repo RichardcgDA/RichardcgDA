@@ -11,7 +11,7 @@ I'm particularly interested in **Fintech, Financial Services, Technology, and Bu
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 - **Programming & Data Analysis:** Python, SQL, Pandas, NumPy
 - **Data Visualization & BI:** Power BI, DAX, Matplotlib
