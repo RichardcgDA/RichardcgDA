@@ -1,4 +1,4 @@
-# Ricardo-Cruz
+# RichardcgDA
 # Hi, I'm Ricardo! 
 
 ### Data Analyst | SQL • Python • Power BI | Business Intelligence & Data Analytics
